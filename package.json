@@ -1,5 +1,5 @@
 {
-  "name": "my-electron-app",
+  "name": "macro",
   "version": "1.0.0",
   "description": "鼠标宏",
   "main": "main.js",
@@ -28,7 +28,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "my_electron_app"
+            "name": "macro"
           }
         },
         {
